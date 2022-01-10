@@ -1,9 +1,9 @@
-NAME,AGE,SEX
-Vasyl,16,MAN
-Petro,23,MAN
-Elena,42,WOMAN
-Hanna,50,WOMAN
-Oleh,34,MAN
-Kateryna,63,WOMAN
-Vladislav,26,MAN
-Lyudmyla,60,WOMAN
+NAME     ,AGE,SEX
+Vasyl    ,16 ,MAN
+Petro    ,23 ,MAN
+Elena    ,42 ,WOMAN
+Hanna    ,50 ,WOMAN
+Oleh     ,34 ,MAN
+Kateryna ,63 ,WOMAN
+Vladislav,26 ,MAN
+Lyudmyla ,60 ,WOMAN

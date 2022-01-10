@@ -31,9 +31,9 @@ public class Main {
                     new People("Vladislav", 26, Sex.MAN),
                     new People("Lyudmyla", 60, Sex.WOMAN)
             );
-            writer.write("NAME,AGE,SEX"+"\n");
-            for (People people:peopleList) {
-                writer.write(people.getName()+","+people.getAge()+","+people.getSex()+"\n");
+            writer.write("NAME,AGE,SEX" + "\n");
+            for (People people : peopleList) {
+                writer.write(people.getName() + "," + people.getAge() + "," + people.getSex() + "\n");
             }
 
         } catch (FileNotFoundException e) {
